@@ -1,2 +1,3 @@
-data/
+data/*
+!data/read_data.txt
 .ipynb_checkpoints/

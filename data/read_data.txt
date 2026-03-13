@@ -1,0 +1,1 @@
+The data folder contains two fastq files from the NB disease.
